@@ -7,8 +7,6 @@
 # Parameters
         None
 
-
-
 # Outputs
         Creates a text file under C:\Windows\Temp\AllCerts.txt
         The script automatically opens the text file
